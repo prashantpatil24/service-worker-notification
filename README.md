@@ -8,6 +8,8 @@ You can debug the code using the browser's built in debugger (F12).
 npm i
 
 npm start
+
+https://localhost:5000
 ```
 
 # Tests
